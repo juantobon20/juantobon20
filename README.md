@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Abako ERP (DITO S.A.S)**
+- 🔭 I’m currently working on **Amaris Consulting**
 
 - 🌱 I’m currently learning **Flutter, Clean Architecture**
 
-- 💬 Ask me about **Kotlin, Java, SwiftUi, Flutter**
+- 💬 Ask me about **Kotlin, Java, SwiftUi, Flutter, C#**
 
 - 📫 How to reach me **juantobon969@gmail.com**
 
